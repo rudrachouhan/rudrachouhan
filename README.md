@@ -1,4 +1,4 @@
-[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsonjoybarmon&psig=AOvVaw0tsvgToBXFMdSBJViuG_oP&ust=1684434975966000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiNrrf__P4CFQAAAAAdAAAAABAE)]
+[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://resplendent-malabi-c6e02c.netlify.app/)
 <h1 align="center">Hi 👋, I'm Rudra Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="banner"/>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudrachouhan&show_icons=true&locale=en" alt="rudrachouhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrachouhan&" alt="rudrachouhan" /></p>
-
